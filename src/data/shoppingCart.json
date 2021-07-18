@@ -1,0 +1,97 @@
+[
+  {
+    "createdAt": 1605186363718,
+    "updatedAt": 1605186397727,
+    "client": {
+      "id": 62416,
+      "name": "DROGARIA GIMENEZ",
+      "razaoSocial": "BENERVAU & CLAUDIO DROGARIA LTDA - ME",
+      "cnpj": "20269237000180",
+      "externalClientId": "C00068861",
+      "address": {
+        "cep": "06036007",
+        "address": "AVENIDA PADRE VICENTE MELILLO, 1906 - UMUARAMA",
+        "city": "OSASCO",
+        "state": "SP"
+      }
+    },
+    "id": 163892,
+    "base": "Nexfar",
+    "items": [
+      {
+        "product": {
+          "id": "5fa2999664313a3718a1e0d5",
+          "sku": "P00033914",
+          "barcode": "7896202500058",
+          "name": "HAAR INTERN C/60CPR-S/AC",
+          "maker": "VITAMED",
+          "category": "ALIMENTOS E SUPLEMENTOS",
+          "principle": "VITAMINA B7 (BIOTINA)",
+          "imageURL": "https://cfarma-public.s3-sa-east-1.amazonaws.com/images/nexfar-product-default-image.jpg",
+          "validUntil": 1667228400000
+        },
+        "quantity": 5,
+        "pmcPrice": 200,
+        "industryPrice": 100,
+        "originalPrice": {
+          "price": 16.92,
+          "finalPrice": 16.92,
+          "taxes": 0,
+          "discount": 83.08
+        },
+        "createdAt": 1605186363770
+      },
+      {
+        "product": {
+          "id": "5f6ca7c9da9a7566bdb84833",
+          "sku": "P00033818",
+          "barcode": "7908346900653",
+          "name": "AGUA MICELAR ROSA MOSQUETA IONS DERMACHEM 250ML",
+          "maker": "PROLINK",
+          "category": "COSMÉTICOS",
+          "principle": "ACIDO HIALURONICO+ASSOCIACOES",
+          "imageURL": "https://s3-sa-east-1.amazonaws.com/cfarma-documents-private/2020/10/23/5f92da028cb461489e72b3b6.png",
+          "validUntil": 1664550000000
+        },
+        "quantity": 8,
+        "pmcPrice": 200,
+        "industryPrice": 100,
+        "originalPrice": {
+          "price": 9.99,
+          "finalPrice": 9.99,
+          "taxes": 0,
+          "discount": 90.01
+        },
+        "createdAt": 1605186380552
+      },
+      {
+        "product": {
+          "id": "5f5ba065adb11968f9db39a9",
+          "sku": "P00033784",
+          "barcode": "7898286335670",
+          "name": "PH CREAM LEAVE-IN FOR MEN CR 200ML-PH ACTION COSMETICS",
+          "maker": "BIOCUTHIS",
+          "category": "COSMÉTICOS",
+          "principle": "OLEOS DE:ARGAN/NOZ KARITE/SEM.ALGOD/COCO/MACADAMIA/CHA VER/CAMOMILA/ALOE V/CALAMO/MIRRA/OLIVA/CANELA",
+          "imageURL": "https://s3-sa-east-1.amazonaws.com/cfarma-documents-private/2020/11/3/5fa1a8028cb461489e74bc3f.png",
+          "validUntil": 1698764400000
+        },
+        "quantity": 2,
+        "pmcPrice": 130.76,
+        "industryPrice": 59.6,
+        "originalPrice": {
+          "price": 59.6,
+          "finalPrice": 59.6,
+          "taxes": 0,
+          "discount": 0
+        },
+        "createdAt": 1605186397406
+      }
+    ],
+    "grossTotal": 1419.2,
+    "netTotal": 283.72,
+    "discount": 1135.48,
+    "totalWithTaxes": 283.72,
+    "label": "163892"
+  }
+]
